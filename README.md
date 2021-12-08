@@ -1,2 +1,2 @@
 # Aim game
-# https://jsfiddle.net/yynyds/zwubdgL6/
+# https://yynyds.github.io/aim-game/
